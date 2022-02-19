@@ -35,4 +35,4 @@ verboSinTerminacion = verbo.replace(terminacion,"")
 
 
 for persona in personas:
-    print(persona+' '+)
+    print(persona,verboSinTerminacion+personas[persona][terminacion])
